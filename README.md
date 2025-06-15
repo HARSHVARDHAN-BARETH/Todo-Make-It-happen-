@@ -1,6 +1,7 @@
 ## Make It Happen! - React To-Do List
 A simple yet powerful React-based To-Do List to help users organize their tasks efficiently. 🚀
 Features:
+
 ✅ Add new tasks dynamically
 ![image](https://github.com/user-attachments/assets/f6c2b1da-391a-4b70-9c04-6e9b6f3bc58f)
 
